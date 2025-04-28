@@ -185,3 +185,6 @@ https://github.com/sandesh300/Task-Management-System/assets/92014891/f699a9a7-2f
 
 ### User
 ![image](https://github.com/sandesh300/Task-Management-System/assets/92014891/204a45c1-f436-4ac5-a6f4-3573b2121a5a)
+
+## Customized by Mahesh Swami
+This project is part of my Java Full Stack Developer journey. It was forked and enhanced with UI improvements and personal branding.
